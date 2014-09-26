@@ -86,8 +86,6 @@ body {
 }
 
 #form_frame {
-	background-image: url('../images/1_email_input_bar.svg');
-	background-size: cover;
 	width:655px;
 	height:53px;
 	position: absolute;

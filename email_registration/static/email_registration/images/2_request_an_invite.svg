@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="378px" height="70px" viewBox="0 0 378 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>2_request_an_invite</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="LANDING-PAGE-1-OUTLINE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="2_request_an_invite" sketch:type="MSArtboardGroup">
+            <g sketch:type="MSLayerGroup">
+                <path d="M2.5,-0.154528288 L0,2.46478873 L4.04179829e-15,67.5426799 L2.5,70 L375.500335,70 L378.261524,67.2777014 L378.261524,2.46436227 L375.60522,-0.154528284 C375.60522,-0.154528284 25.8985486,-0.151407732 24.5,-0.154528288 C23.1014514,-0.157648844 2.5,-0.154528288 2.5,-0.154528288 L2.5,-0.154528288 L2.5,-0.154528288 Z" id="Path-4" stroke="#979797" fill="#34A5D9" sketch:type="MSShapeGroup"></path>
+                <text id="REQUEST-AN-INVITE" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="Lucida Grande" font-size="24" font-weight="bold">
+                    <tspan x="63.5" y="45.7815848">REQUEST AN INVITE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -23,6 +23,11 @@ rel='stylesheet' type='text/css'>
 	</div>
 
 	<div id="form_frame">
+		<form id='email_signup' action='email_registration/confirm_submission/' method='POST'>
+			{% csrf_token %}
+			{{ form }}
+			<input id='submit_button' type='submit' value='' />
+		</form>
 	</div>
 	<div id="bottom_text">
 		NXT4 is currently in private Beta.  Subscribe for early access.
