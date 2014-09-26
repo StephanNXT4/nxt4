@@ -23,7 +23,7 @@ rel='stylesheet' type='text/css'>
 	</div>
 
 	<div id="form_frame">
-		<form id='email_signup' action='email_registration/confirm_submission/' method='POST'>
+		<form autocomplete='off' id='email_signup' action='email_registration/confirm_submission/' method='POST'>
 			{% csrf_token %}
 			{{ form }}
 			<input id='submit_button' type='submit' value='' />

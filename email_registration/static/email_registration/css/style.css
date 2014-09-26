@@ -93,6 +93,33 @@ body {
 	top: 600px;
 }
 
+#id_email {
+	background-image: url('../images/enter_your_email.svg') !important;
+	background-size: cover;
+	width: 300px;
+	height:53px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	color: white;
+	font-size: 16pt;
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	text-indent: 60px;
+}
+
+#submit_button {
+	background-image: url('../images/2_request_an_invite.svg') !important;
+	background-size: cover;
+	border-radius: 10px;
+	border: none;
+	width: 300px;
+	height:53px;
+	position: absolute;
+	left: 350px;
+	top: 0px;
+}
+
 #bottom_text {
 	width:650px;
 	height:50px;
